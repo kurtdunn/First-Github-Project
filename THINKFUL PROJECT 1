@@ -1,1 +1,6 @@
 cd ~/Desktop
+mkdir ~/Sites
+cd ~/Sites
+mkdir thinkful && cd thinkful
+mkdir startup-landing-page-clone
+cd startup-landing-page-clone
